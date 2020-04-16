@@ -4,7 +4,7 @@
 
 Supervisely is 100% free as long as you don't use it for commercial projects.
 
-If you want to launch a commercial for your company, please contact us at [hello@supervise.ly](hello@supervise.ly).
+If you want to launch a commercial for your company, please contact us at [hello@supervise.ly](https://github.com/TDionis/gitbook-test-2/tree/6674a9367498cf90a3f4b6119416152b98b80b92/getting-started/hello@supervise.ly).
 
 ## Who has rights to the data?
 
@@ -14,12 +14,13 @@ We respect your privacy and when you create an account you don't grant us any ri
 
 ## Do you have an on-premises version?
 
-We do! Drop us an email at [hello@supervise.ly](hello@supervise.ly) or fill the form [here](https://supervise.ly/enterprise).
+We do! Drop us an email at [hello@supervise.ly](https://github.com/TDionis/gitbook-test-2/tree/6674a9367498cf90a3f4b6119416152b98b80b92/getting-started/hello@supervise.ly) or fill the form [here](https://supervise.ly/enterprise).
 
 ## What does “Supervisely” mean?
 
-The name Supervisely comes from machine learning term supervised learning — when we use a known dataset (called the training dataset) to make predictions. And, well, Supervisely is all about datasets and using them to build models.
+The name Supervisely comes from machine learning term supervised learning — when we use a known dataset \(called the training dataset\) to make predictions. And, well, Supervisely is all about datasets and using them to build models.
 
 ## Origins of Supervisely
 
 It's not unusual when internal tools become public projects. Supervisely was first developed at Deep Systems as a solution to deal with everyday task of large datasets annotation. We hope that you will like Supervisely as much as we do and it'll become your favourite tool too 🎉.
+
