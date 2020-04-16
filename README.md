@@ -28,5 +28,5 @@ The best way to explore Supervisely is to try it out — so don't wait and [crea
 
 Have some questions? Check our FAQ:
 
-{% page-ref page="./" %}
+{% page-ref page="getting-started/faq.md" %}
 
