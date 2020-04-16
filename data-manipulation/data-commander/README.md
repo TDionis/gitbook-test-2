@@ -15,5 +15,9 @@ Data Commander is a dual pane data manager \(just like Double Commander\), but n
 
 Wanna learn more? Check out our blog post:
 
+{% embed url="https://medium.com/deep-systems/dual-pane-file-manager-for-training-data-old-school-meets-ai-in-supervisely-d0aa64def296" %}
+
+dd
+
 {% embed url="https://medium.com/deep-systems/dual-pane-file-manager-for-training-data-old-school-meets-ai-in-supervisely-d0aa64def296" caption="" %}
 
